@@ -1,0 +1,1 @@
+Repositorio de prueba generado con la plantilla React + Vite mejorada de RepoPilot
